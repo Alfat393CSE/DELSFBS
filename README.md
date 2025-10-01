@@ -41,4 +41,9 @@ seaborn
 scikit-learn
 ```
 ---
+##  License
+
+This project is provided for educational and research purposes.
+You are free to use and adapt it with proper attribution.
+
 [![DOI](https://zenodo.org/badge/1067838694.svg)](https://doi.org/10.5281/zenodo.17244015)
