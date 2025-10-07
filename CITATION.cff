@@ -8,7 +8,7 @@ authors:
     given-names: "Mst. Taskia"
   - family-names: "Rahman"
     given-names: "Anika"
-title: "DELSFBS: Bangladeshi Student Survey Data Processing and Analysis"
+title: "A Dataset on Educational, Lifestyle, and Socioeconomic Factors of Bangladeshi Students (DELSFBS)"
 version: 0.1.0
 doi: 10.5281/zenodo.17244016
 date-released: 2025-10-01
