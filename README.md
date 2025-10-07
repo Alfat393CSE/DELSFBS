@@ -1,4 +1,4 @@
-# 🎓 Bangladeshi Student Survey – Data Processing & Analysis  
+# 🎓 A Dataset on Educational, Lifestyle, and Socioeconomic Factors of Bangladeshi Students (DELSFBS)
 
 [![DOI](https://zenodo.org/badge/1067838694.svg)](https://doi.org/10.5281/zenodo.17244015)  
 *A comprehensive workflow for cleaning, transforming, and analyzing survey data collected from Bangladeshi students.*
