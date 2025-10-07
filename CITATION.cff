@@ -1,10 +1,17 @@
 cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
 authors:
-- family-names: "Tasnim Hasan"
-  given-names: "Alfat"
-  orcid: "https://orcid.org/0009-0005-4481-385X"
-title: "DELSFBS"
+  - family-names: "Tasnim Hasan"
+    given-names: "Alfat"
+    orcid: "https://orcid.org/0009-0005-4481-385X"
+  - family-names: "Khatun"
+    given-names: "Mst. Taskia"
+  - family-names: "Rahman"
+    given-names: "Anika"
+title: "DELSFBS: Bangladeshi Student Survey Data Processing and Analysis"
 version: 0.1.0
 doi: 10.5281/zenodo.17244016
 date-released: 2025-10-01
 url: "https://doi.org/10.5281/zenodo.17244016"
+abstract: "A dataset and code repository for cleaning, transforming, and analyzing survey data of Bangladeshi students."
+keywords: ["dataset", "data-analysis", "Bangladesh", "survey", "education"]
